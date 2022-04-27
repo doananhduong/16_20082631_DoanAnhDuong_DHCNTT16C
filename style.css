@@ -23,7 +23,7 @@ body {
   
   .items li a {
     text-decoration: none;
-    color: blue;
+    color: rgb(150, 150, 235);
   }
   
   .items li:hover {
